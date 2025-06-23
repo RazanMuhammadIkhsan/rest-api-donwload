@@ -1,0 +1,21 @@
+{
+  "name": "rest-api",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "rest api"
+  ],
+  "author": "Razan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@suzakuteam/scraper-node": "^1.2.8",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
